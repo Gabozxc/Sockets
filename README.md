@@ -1,4 +1,1 @@
-# sockets
-Aplicacion chat por terminal para entender como funcionan los sockets
-
-Para que pueda funcionar la aplicacion debes abrir los puertos de la pc en donde estes corriendo el server y luego enviarle el archivo cliente a la persona con la cual quieres tener la conversacion y ejecutar tu ip publica con el server 
+In order for the application to work you must open the ports of the pc where you are running the server and then send the client file to the person you want to have the conversation with and run your public ip with the server.
