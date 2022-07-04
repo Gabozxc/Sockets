@@ -32,7 +32,7 @@ const listen = (port) => {
 
         socket.on("data", message => {
               if(!connections.has(socket)){
-                  console.log(`New user start in the chat`)
+                  console.log(`New user start in the chat, say hellow`)
                   connections.set(socket, message)
               }
               else if(message == END){
